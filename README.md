@@ -1,1 +1,1 @@
-# Noticias-DB
+# Banco de Dados de Notícias
