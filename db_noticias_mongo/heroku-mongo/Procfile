@@ -1,0 +1,1 @@
+worker: python noticias_run_mongo.py
